@@ -1,6 +1,6 @@
 # DSE-Flink
 
-Apache Flink distributed cluster and automated Java benchmark controller for the Distributed Systems Evaluation project.
+Apache Flink distributed cluster and automated Java benchmark controller for the Distributed Systems Engineering project.
 
 ## What is included
 
@@ -8,9 +8,7 @@ Apache Flink distributed cluster and automated Java benchmark controller for the
 |---|---|
 | `docker-compose.yml` | Docker Compose configuration for 1 JobManager and 5 TaskManagers |
 | `flink-test-controller/` | Java application that controls Docker/Flink tests and generates a report |
-| `run-controller.bat` | Builds and runs the Java controller from Windows |
-| `run-controller-fast.bat` | Runs a shorter demo version of the controller |
-| `stop-cluster.bat` | Stops the Docker/Flink cluster |
+
 
 ## Cluster architecture
 
