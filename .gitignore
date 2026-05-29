@@ -1,0 +1,3 @@
+﻿*.bat
+flink-test-controller/target/
+flink-test-controller/results/
